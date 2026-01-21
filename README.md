@@ -1,5 +1,6 @@
 # RentEase: Landlord–Tenant Management System
 Project Description
+
 RentEase is a web-based system that simplifies the rental process for landlords, tenants, and administrators. The platform allows landlords to list properties, manage apartment details, and track tenant information. Tenants can search for properties, submit rental requests, and manage their rental history. Admins ensure system operations and data integrity. Built with HTML, CSS, JavaScript, and PHP, RentEase provides a responsive frontend and secure backend solution to streamline property management.
 
 How to Install and Run the Project
