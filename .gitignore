@@ -1,0 +1,41 @@
+# RentEase .gitignore
+
+# Upload directories (user-generated content)
+uploads/properties/*
+uploads/profiles/*
+!uploads/properties/.gitkeep
+!uploads/profiles/.gitkeep
+
+# Configuration files with sensitive data
+config/database.local.php
+
+# Logs
+*.log
+logs/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Backup files
+*.bak
+*.backup
+*.sql.bak
+
+# Environment files
+.env
+.env.local
+
