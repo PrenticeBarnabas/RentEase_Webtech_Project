@@ -19,7 +19,7 @@ Steps:
 
 3.	Start XAMPP Servers: Open the XAMPP Control Panel and start Apache and MySQL.
 
-4.	Set Up the Database: Visit http://localhost/phpmyadmin and import the schema.sql file from the rentease folder (located in the project directory).
+4.	Set Up the Database: Visit http://localhost/phpmyadmin/ and import the schema.sql file from the rentease folder (located in the project directory).
 
 5.	Run the Project: In your browser, go to http://localhost/rentease/index.php to access the application.
 
